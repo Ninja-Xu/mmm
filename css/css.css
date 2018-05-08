@@ -118,7 +118,7 @@ input{font-family:"΢���ź�";}
 .p0.active div.hand{opacity:1; transition-delay:1.2s;-webkit-transition-delay:1.2s;-moz-transition-delay:1.2s;-o-transition-delay:1.2s;-webkit-transform:scale(1, 1);-ms-transform:scale(1, 1);-moz-transform:scale(1,1);-o-transform:scale(1, 1);transform:scale(1, 1);}
 .p0 div.hand a{ display:block; margin:16px auto 0; width:135px; height:135px;border-radius:50%}
 
-.p0 div.t4{ height:1500px; top:620px; width:90%;left:5%;}
+.p0 div.t4{ height:1200px; top:620px; width:90%;left:5%; background: url(../images/butterfly.png) bottom center no-repeat;background-size: 50% auto;}
 
 .opwin{ background:rgba(0,0,0,0.8) ; width:100%; height:100%; position:fixed; left:0; top:0; z-index:99; display:none}
 .opwin div{  width:550px; height:642px; position:absolute; left:50%; margin-left:-275px; top:50%; margin-top:-321px;}
@@ -126,7 +126,7 @@ input{font-family:"΢���ź�";}
 .opwin div ul:nth-child(1){background:url(../images/t10.png) no-repeat center top;}
 .opwin div ul:nth-child(1) li{height:45px; width:360px; margin:0 auto; text-align:right;}
 .opwin div ul:nth-child(1) li+li {}
-.opwin div ul:nth-child(1) li.c1{ padding-top:135px; margin-bottom:25px;}
+.opwin div ul:nth-child(1) li.c1{ padding-top:205px; margin-bottom:25px;}
 .opwin div ul:nth-child(1) li.c2{ margin-top:22px;}
 .opwin div ul:nth-child(1) li.c3{ margin-top:28px;}
 .opwin div ul:nth-child(1) input.txt{ font-size:2rem; line-height:45px; height:100%; width:215px; border:0; background:none; outline:none; margin-bottom:10px; color:#fff}
